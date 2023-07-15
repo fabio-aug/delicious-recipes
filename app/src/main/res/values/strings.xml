@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Delicious Recipes</string>
     <string name="search">Buscar Receita</string>
+    <string name="recipe_image">Imagem da receita</string>
+    <string name="origen">Origem:</string>
+    <string name="textview">TextView</string>
+    <string name="category">Categoria:</string>
+    <string name="tutorial">Tutorial:</string>
+    <string name="video_suport">Vídeo suporte:</string>
+    <string name="about">Mais sobre:</string>
+    <string name="ingredient">Ingredientes:</string>
 </resources>
